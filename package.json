@@ -1,0 +1,10 @@
+{
+    "name": "dialogue-telemedicine-app",
+    "version": "1.0.0",
+    "description": "A simple telemedicine app for Dialogue",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
